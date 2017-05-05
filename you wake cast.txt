@@ -1,62 +1,148 @@
-Cast
+{3}{red}{b}Cast{/b}{/red}
 
-Prime
-———————————
-Blanka Nanda
-Vlaho Nanda
-Ivo Servant
+++++++
+{blue}{b}Name{/b} - . - {b}Age{/b}  - . - {b}Gender{/b} - . -  {b}Height{/b}{/blue}             
 
-Nimble’s Crew (Moonpath Street)
-———————————
-Fortitude Baker (Posey)
-Hush Seamstress Baker (Deceased)
-Reliance Baker
-Nimble Seamstress
-Comfort Carpenter
-Temperance Painter
-Verity Mason
-Measure Carpenter (Child)
-Charity Mason (Child)
+++++++
 
-The Smith Gang (Moonpath Street)
-———————————
-Joy Smith
-Grace Smith
-Light Porter
-Parry Guard
-New girl Posey
-Unknown Posey
-Amity Seamstress?
+{4}{green}{b}Prime{/b}{/green}
+++++++
 
-Other Moonpath Street Residents
-———————————
-Patience Matchmaker
-Level Carpenter
-One Mason (Deceased)
-Hawkeye Guard (Deceased)
-Honesty Porter (Deceased)
-
-The Draper Gang (Autumn Street)
-———————————
-Shrewd Draper
-Cut Guard
-Thrust Guard
-
-The Blue Wyvern Street Gang
-———————————
-Members Unknown
+{b}Vlaho Nanda{/b} - . - 27  - . - M  - . - 5”9’{br}
+{block}
+Systematic methodical thinker, with high sense of duty to his family, house and world in that order. Dedicated to building a team that can help bring the cure to Prime.{br}
+{b}Preferred Weapon:{/b} Sword {br}
+{/block}
+{b}Blanka Nanda{/b} - . - 26  - . - F  - . - 5”7’{br}
+{block}
+Supportive, helpful and watchful. Dedicated to helping bring the cure to Prime. She is Vlaho’s cousin.
+{br}
+{/block}
+{b}Ivo Servant{/b}  - . - 24  - . - M  - . - 5”11’{br}
 
 
-Gods of Prime
-———————————
-The Blacksmith (Svarog)
-The Giver (Dažbog)
-The Thunderer (Perun)
+++++++
 
-Gods of Fortitude’s Shadow World
-———————————
-The Maker
-The Destroyer
+{4}{green}{b}Nimble’s Crew (Moonpath Street){/b}{/green}
+++++++
+
+{b}Fortitude Baker (Posey){/b} - . - 23  - . - M  - . - 7”4’{br}
+{block}
+{b}Original Personality{/b}{br}
+Systematic methodical thinker, with high sense of duty to his family, bakery and street in that order. Dedicated to keeping his loved ones safe. Loves Nimble. Has complex feelings towards Comfort. Feels very guilty about Hush. Tries to make himself smaller. Hates people being afraid of him. Deliberately plays dumb and projects ‘I am harmless’ vibe.
+{br}
+{b}Preferred Weapons:{/b} Rolling Pin, Chair, Any nearby blunt object {br}{br}
+{b}Personality After Possession by Vlaho{/b}{br}
+Although Vlaho is notionally in charge, their highly compatible personalities have merged. Fortitude’s goals and priorities are still there under the surface.
+{/block}
+{b}Hush Seamstress Baker (Deceased){/b} - . - 23  - . - M  - . - 6”0’{br}
+{block}
+Artistic and timid. Loves designing and making clothes. Hates bakery. Afraid of Fortitude’s size. Resents being forced to marry Fortitude.
+{/block}
+{b}Reliance Baker{/b} - . - 16  - . - F  - . - 5”6’{br}
+{block}
+Rebellious and adventurous. Resents narrow world view and suffocating conformity of Moonpath Street. Resents intrusion of Nimble and Comfort into her comfortable life and their intrusion between her and her brother Fortitude.{br}
+{b}Preferred Weapons:{/b} Spear, Crossbow {br}
+{/block}
+{b}Nimble Seamstress{/b} - . - 18  - . - F  - . - 5”11’{br}
+{block}
+Quiet, bookish, focused and intense. Also resents narrow world view and suffocating conformity of Moonpath Street. Feels very close and protective towards Comfort and Fortitude. Hid before her upcoming wedding to get out of it, before plague and the fleeing of the city by her bridegroom made the marriage moot. She is Hush’s sister.
+{br}
+{b}Preferred Weapon:{/b} Crossbow {br}
+{/block}
+{b}Comfort Carpenter{/b} - . - 23  - . - F  - . - 5”10’{br}
+{block}
+Optimistic, cheerful, passionate. Avoids introspection, deliberately forgets uncomfortable truths. Often dishonest with herself and others. Deflects and misdirects when feeling threatened. Afraid of very few things, but those include her father and her husband Level. Cares deeply about Nimble and Fortitude. Use to live next door to bakery. She is a childhood friend to Fortitude.{br}
+{b}Preferred Weapon:{/b} two concealed daggers {br}
+{/block}
+{b}Temperance Painter{/b} - . - 17  - . - F  - . - 5”5’{br}
+{block}
+Optimistic, Adventurous and Naive. First to believe in rumours of Poseys. Found the groups first Posey, right under Nimble’s nose. Let her family flee the city without her, because she believed in Nimble’s plans. Barely escaped unwanted marriage because of plague. Willing to shift to bakery when Nimble found out about Fortitude. Takes her name seriously endeavouring to live up to it, abstains from alcohol, tries to behave calmly, but often fails due to her excitable nature. She used to live next door to bakery, the other side to the Carpenters.{br}
+{b}Preferred Weapon:{/b} Sword {br}
+{/block}
+{b}Verity Mason{/b} - . - 22  - . - F  - . - 5”3’{br}
+Loyal, traditional, given to blaming herself and making excuses for others. Hates Nimble for talking her into leaving her abusive husband. Hates Comfort for killing her husband. Has complex feelings for Fortitude, mostly viewing him as dinner, but also as a threat to her emotionally and physically.{br}
+{b}Preferred Weapon:{/b} Carving Knife {br}
+{/block}
+{b}Measure Carpenter (Child){/b} - . - 2  - . - M  - . - 3”1’{br}
+{b}Charity Mason (Child)/b} - . - 2  - . - F  - . - 2”7’{br}
+
+
+++++++
+
+{4}{green}{b}The Smith Gang (Moonpath Street){/b}{/green}
+++++++
+
+{b}Joy Smith{/b} - . - 16  - . - F  - . - 5”8’{br}
+{block}
+Rebellious and adventurous. Two minutes older than her twin, she considers herself the leader of the group and more mature than her twin.{br}
+{b}Preferred Weapons:{/b} Spear {br}
+{/block}
+{b}Grace Smith{/b} - . - 16  - . - F  - . - 5”8’{br}
+{block}
+Rebellious and adventurous. Would argue with her twin about who is the real leader of the group. She considers herself smarter than her twin.{br}
+{b}Preferred Weapons:{/b} Bow, Short Sword {br}
+{/block}
+{b}Light Porter{/b} - . - 16  - . - F  - . - 5”1’{br}
+{b}Parry Guard{/b} - . - 16  - . - F  - . - 5”7’{br}
+{b}New girl Posey{/b} - . - 20?  - . - F  - . - ?{br}
+{b}Unknown Posey{/b} - . - 40?  - . - F  - . - ?{br}
+{b}Amity Seamstress?{/b} - . - 42  - . - F  - . - 5”10’{br}
+{block}
+Disappointed, self entitled and judgemental. Cares deeply about her daughters, but has problems expressing her feelings.{br}
+{/block}
+
+++++++
+
+{4}{green}{b}Other Moonpath Street Residents{/b}{/green}
+++++++
+{b}Patience Matchmaker{/b} - . - 54 - . - F  - . - 5”2’{br}
+{block}
+Considers Moonpath Street as her own little empire, the residents lives are hers to regulate and control.
+{/block}
+{b}Level Carpenter{/b} - . - 34 - . - M  - . - 5”11’{br}
+{block}
+Cool, Possessive and Domineering. Use to being obeyed. Will not easily let go of things he considers his possessions, like his apprentices, wives and children. Comfort is his second wife, the first having died in childbirth.{br}
+{b}Preferred Weapon:{/b} Others {br}
+{/block}
+{b}One Mason (Deceased){/b} - . - 22  - . - M  - . - 5”9’{br}
+{b}Hawkeye Guard (Deceased){/b} - . - 48  - . - M  - . - 6”0’{br}
+{b}Honesty Porter (Deceased){/b} - . - 50  - . - M  - . - 5”6’{br}
+
+
+++++++
+
+{4}{green}{b}The Draper Gang (Autumn Street){/b}{/green}
+++++++
+
+{b}Shrewd Draper{/b} - . - 39 - . - M  - . - 5”7’{br}
+{b}Cut Guard{/b} - . - 22 - . - M  - . - 5”11’{br}
+{b}Thrust Guard{/b} - . - 20 - . - M  - . - 6”1’{br}
+
+
+++++++
+
+{4}{green}{b}The Blue Wyvern Street Gang{/b}{/green}
+++++++
+
+Members Unknown{br}
+
+++++++
+
+{4}{green}{b}Gods of Prime{/b}{/green}
+++++++
+
+The Blacksmith (Svarog){br}
+The Giver (Dažbog){br}
+The Thunderer (Perun){br}
+
+++++++
+
+{4}{green}{b}Gods of Fortitude’s Shadow World{/b}{/green}
+++++++
+
+The Maker{br}
+The Destroyer{br}
 
 
 
